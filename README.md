@@ -1,5 +1,4 @@
-# VirtuBot
-[https://projectvirtubot.vercel.app/]
+# VirtuBot [https://projectvirtubot.vercel.app/]
 A SAAS application with Stripe-integrated, Tailwind design, and animations. Enjoy seamless authentication, error handling, and AI-generated conversations. Explore efficient routing, data fetching, and component relations in Next.js. Elevate your user experience with this versatile solution.<br>
 
 **Follow these steps to get your project up and running**<br>
