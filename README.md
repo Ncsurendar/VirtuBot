@@ -11,9 +11,15 @@ create a .env file (Include The below env variables in the file)<br>
 1) Clerk Auth - Authentication 
 2) Prisma - Database(MySQL)
 3) Cloudinary - It provides wide services to the project.
-4) Pinecone - It is a machine learning (ML) platform designed to accelerate the deployment of search and recommendation systems.
+4) Pinecone - Machine learning (ML) platform designed to accelerate the deployment of search and recommendation systems.
 5) Upstash - Serverless Database
 6) OpenAI - Chatting
 7) Replicate AI -  lets you run machine learning models with a cloud API.
-8) Stripe - monetize your project by monthly subscription. 
+8) Stripe - monetize your project by monthly subscription.
+
+![UI](https://github.com/Ncsurendar/VirtuBot/assets/91242424/bb05a94c-a5db-42a3-866d-69bbb574eb5f)
+
+![Elon chat](https://github.com/Ncsurendar/VirtuBot/assets/91242424/5fb38461-dbba-4e2d-9a23-1429d927e91d)
+
+
 
