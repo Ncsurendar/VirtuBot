@@ -17,7 +17,9 @@ create a .env file (Include The below env variables in the file)<br>
 7) Replicate AI -  lets you run machine learning models with a cloud API.
 8) Stripe - monetize your project by monthly subscription.
 
-![UI](https://github.com/Ncsurendar/VirtuBot/assets/91242424/bb05a94c-a5db-42a3-866d-69bbb574eb5f)
+
+![UI](https://github.com/Ncsurendar/VirtuBot/assets/91242424/6a1e4c46-a5f7-4d39-8f8e-e8f1a5601ce2)
+
 
 ![Elon chat](https://github.com/Ncsurendar/VirtuBot/assets/91242424/5fb38461-dbba-4e2d-9a23-1429d927e91d)
 
