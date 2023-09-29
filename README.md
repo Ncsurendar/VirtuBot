@@ -1,5 +1,4 @@
 # VirtuBot
-Project Name
 A brief description of your project goes here.
 
 Table of Contents
